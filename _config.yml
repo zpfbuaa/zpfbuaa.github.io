@@ -1,16 +1,16 @@
-title: zpfbuaa
-subtitle: Personal
-description: Welcome to 
-avatarTitle: 伊甸一点
-avatarDesc: With time goes by, everything will be fine.
+title: 伊甸一点
+subtitle: 个人站
+description: 欢迎来到我的个人站~ 
+avatarTitle: 
+avatarDesc: 算法 / 机器学习
 url: "http://www.cnblogs.com/zpfbuaa"
 
 comment:
-    duoshuo: zpfbuaa
+    duoshuo: 伊甸一点
 
 # Social
 social:
-    weibo: ----
+    weibo: zpflyfe
     github: zpfbuaa
     mail: zpflyfe@163.com
 
