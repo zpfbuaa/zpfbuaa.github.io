@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "测试马克飞象支持度"
-tags: build-blog
+tags: test
 ---
 # 欢迎使用马克飞象
 
