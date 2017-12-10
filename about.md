@@ -12,5 +12,3 @@ come from 伊甸一点
 
 
 {% include comments.html %}
-
-
